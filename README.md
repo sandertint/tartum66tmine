@@ -1,2 +1,2 @@
 # Tartu mõõtmine; Tarton mittaaninen
-[Demo](https://github.com/sandertint/tartum66tmine)
+[Demo](http://sandertint.github.io/tartum66tmine/)
