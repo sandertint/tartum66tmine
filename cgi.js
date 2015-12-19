@@ -1,4 +1,4 @@
-if(!"L" in document) {
+if(!("L" in document)) {
     console.error("Leaflet JS must be loaded"); 
 }
 
